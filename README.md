@@ -1,0 +1,2 @@
+# GameOfSimon
+recreate all sequences
